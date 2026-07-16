@@ -3,11 +3,14 @@
 # 🚀 Semiconductor Industry Analysis
 ## **The AI Hardware Boom**
 ### *A Strategic Business & Market Intelligence Report*
+<img width="1376" height="768" alt="SCData_PowerBI_Dashboard_Render" src="https://github.com/user-attachments/assets/f1b1cbd9-7f83-4351-9dc1-aa487fcba4b6" />
+
 
 <img src="https://img.shields.io/badge/Industry-Semiconductors-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-AI%20Hardware-76B900?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Company-NVIDIA-76B900?style=for-the-badge&logo=nvidia" />
 <img src="https://img.shields.io/badge/Year-2026-orange?style=for-the-badge" />
+
 
 **Exploring the growth, profitability, risks, competitive landscape, and investment outlook of one of the world's fastest-growing industries.**
 
