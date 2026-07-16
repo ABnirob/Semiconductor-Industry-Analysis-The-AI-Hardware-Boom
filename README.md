@@ -64,6 +64,14 @@ This project answers five important strategic questions:
 Evaluate industry size, profitability, market growth, and future demand.
 
 ---
+# 📂 Dashboards images 
+<img width="1920" height="789" alt="1  Executive Overview" src="https://github.com/user-attachments/assets/84b23ac5-d72a-474d-a3f1-7eade51fba43" />
+<img width="1920" height="778" alt="2  Market shares and moat" src="https://github.com/user-attachments/assets/d0db84e5-0620-4dfb-a50b-5f271f61d0ff" />
+<img width="1920" height="795" alt="3" src="https://github.com/user-attachments/assets/cec655d3-6a8b-4b00-9ffc-cf81965aa722" />
+<img width="1917" height="775" alt="4" src="https://github.com/user-attachments/assets/ae271c67-2acb-4a98-a84e-2167ed015389" />
+<img width="1920" height="780" alt="5" src="https://github.com/user-attachments/assets/0ef7fad6-4c07-429b-a4b3-5032f99a1164" />
+
+
 
 ### ⚠️ What are the biggest business risks?
 
