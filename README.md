@@ -3,7 +3,8 @@
 # 🚀 Semiconductor Industry Analysis
 ## **The AI Hardware Boom**
 ### *A Strategic Business & Market Intelligence Report*
-<img width="1376" height="768" alt="SCData_PowerBI_Dashboard_Render" src="https://github.com/user-attachments/assets/f1b1cbd9-7f83-4351-9dc1-aa487fcba4b6" />
+<img width="1672" height="941" alt="semiconductor industry" src="https://github.com/user-attachments/assets/45da56a6-a4b7-4eeb-be8d-b6704b2c30c6" />
+
 
 
 <img src="https://img.shields.io/badge/Industry-Semiconductors-0052CC?style=for-the-badge" />
